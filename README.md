@@ -36,6 +36,9 @@ Navigate to the resource page and create a resource group
 <a href="https://imgur.com/XXHkvWB"><img src="https://i.imgur.com/XXHkvWBl.png" title="source: imgur.com" /></a>
 <a href="https://imgur.com/n1zDuik"><img src="https://i.imgur.com/n1zDuikl.png" title="source: imgur.com" /></a>
 
+3.) Ensure you are deleting resource groups as forgetting could cost you depending on the subscription you have.
+
+
 CONGRATULATIONS!!! You've learned how to create a resource group and a storage account within Azure.
 
 
